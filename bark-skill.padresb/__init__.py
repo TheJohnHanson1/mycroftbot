@@ -1,6 +1,6 @@
 from mycroft import MycroftSkill, intent_file_handler
 
-
+# jh test edit
 class Bark(MycroftSkill):
     def __init__(self):
         MycroftSkill.__init__(self)
